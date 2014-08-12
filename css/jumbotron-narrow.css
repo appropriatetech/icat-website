@@ -66,6 +66,15 @@ body {
     margin: 0px;
   }
 
+  .navbar-collapse {
+    text-align: center;
+  }
+
+  .navbar-nav {
+    display: inline-block;
+    float: none;
+  }
+
   .logo {
     background: url(../images/icat-logo-full.png);
     width: 700px;
