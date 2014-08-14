@@ -43,12 +43,12 @@ body {
 }
 
 .navbar {
-  -webkit-transition: all 0.25s linear;
-  -kthtml-transition: all 0.25s linear;
-  -moz-transition: all 0.25s linear;
-  -ms-transition: all 0.25s linear;
-  -o-transition: all 0.25s linear;
-  transition: all 0.25s linear;
+  -webkit-transition: box-shadow 0.25s linear;
+  -kthtml-transition: box-shadow 0.25s linear;
+  -moz-transition: box-shadow 0.25s linear;
+  -ms-transition: box-shadow 0.25s linear;
+  -o-transition: box-shadow 0.25s linear;
+  transition: box-shadow 0.25s linear;
 }
 
 .affix {
