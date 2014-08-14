@@ -42,11 +42,21 @@ body {
   background-size: 229px 78px;
 }
 
+.navbar {
+  -webkit-transition: all 0.25s linear;
+  -kthtml-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+}
+
 .affix {
   top: 0;
   width: 100%;
   left: 0;
   padding: 0 15px;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,0.5);
 }
 
 .affix + section,
