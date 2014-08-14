@@ -5,6 +5,10 @@ body {
   position: relative;
 }
 
+.content-container {
+  overflow: hidden;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
